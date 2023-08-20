@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BLOODYBEAR04
+- 👋 Hi, I’m @Kouichi Guisihan
 - 👀 I’m interested in ... learning most of the programming languages
 - 🌱 I’m currently learning ... java, javascript, python, c++, c#, php
 - 📫 How to reach me ... secret
